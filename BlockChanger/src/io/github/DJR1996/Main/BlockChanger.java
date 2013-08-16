@@ -11,5 +11,9 @@ public class BlockChanger extends JavaPlugin{
 	public void onDisable(){
 		getLogger().info("BlockChanger has been disabled!");
 	}
+	
+	public void onReload(){
+		
+	}
 
 }
